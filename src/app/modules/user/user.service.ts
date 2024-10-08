@@ -257,7 +257,7 @@ const paymentConfirmation = async (transactionId: string) => {
       </div>
       <h1>Payment Successful!</h1>
 
-      <button onclick="window.location.href='https://cook-nest-client.vercel.app/dashboard';">
+      <button onclick="window.location.href='https://fandf-client.vercel.app';">
         Go To Your Dashboard
       </button>
     </div>
@@ -356,11 +356,11 @@ const paymentConfirmation = async (transactionId: string) => {
           margin: 0 auto;
         "
       >
-        <i class="checkmark">❌</i>
+        <i class="checkmark">✅ </i>
       </div>
-      <h1>Payment Failed!</h1>
+      <h1>Payment Successful!</h1>
 
-      <button onclick="window.location.href='https://cook-nest-client.vercel.app';">
+      <button onclick="window.location.href='https://fandf-client.vercel.app';">
         Go To Homepage
       </button>
     </div>

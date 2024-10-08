@@ -192,7 +192,7 @@ router.post('/reset-password', async (req, res) => {
           <div class="container">
             <h1>Password Reset Successful!</h1>
             <p>Your password has been updated successfully.</p>
-            <a href="https://cook-nest-client.vercel.app/login" class="btn">Login Now</a>
+            <a href="https://fandf-client.vercel.app/login" class="btn">Login Now</a>
           </div>
         </body>
       </html>
@@ -249,7 +249,7 @@ router.post('/reset-password', async (req, res) => {
           <div class="container">
             <h1>Token Expired</h1>
             <p>The reset link has expired or is invalid. Please try again.</p>
-            <a href="https://cook-nest-client.vercel.app/login" class="btn">Go Back</a>
+            <a href="https://fandf-client.vercel.app/login" class="btn">Go Back</a>
           </div>
         </body>
       </html>
