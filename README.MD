@@ -1,6 +1,6 @@
 # Fork & Flavor
 
-[Live URL](https://forkandflavor-backend.vercel.app/)
+[Live URL](https://fandf-client.vercel.app/)
 
 ## Introduction
 
